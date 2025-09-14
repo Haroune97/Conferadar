@@ -1,0 +1,1 @@
+url,title,date,location,scraped_at
